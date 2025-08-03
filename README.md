@@ -129,3 +129,17 @@ Metrics used:
 |MobileNet|89.0|88.0|89.2|88.6|
 |InceptionV3|90.3|89.5|90.0|89.7|
 |EfficientNetB0|91.1|90.5|91.2|90.9|
+
+# Class Name
+The 11 fish species classes used in the model are:
+- animal fish
+- animal fish bass
+- fish sea_food black_sea_sprat
+- fish sea_food gilt_head_bream
+- fish sea_food hourse_mackerel
+- fish sea_food red_mullet
+- fish sea_food red_sea_bream
+- fish sea_food sea_bass
+- fish sea_food shrimp
+- fish sea_food striped_red_mullet
+- fish sea_food trout 
